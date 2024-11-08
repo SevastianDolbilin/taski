@@ -23,4 +23,4 @@ jobs:
         uses: actions/checkout@v3  # Берём готовое решение из библиотеки GitHub Actions
       # Выполняем команду tree в текущей директории
       - name: Print project tree
-        run: tree .
+        run: tree 
